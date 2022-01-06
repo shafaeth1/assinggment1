@@ -1,0 +1,105 @@
+body{
+    font-family:  'Fira Sans Extra Condensed', sans-serif;;
+  
+}
+.bor-one{
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+    border-left: 4px solid;
+    padding-left: 10px;
+}
+.org{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    
+}
+.flexibletion{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+p{
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.heading-mission{
+    text-align: center;
+}
+.mission{
+    padding-left: 10%;
+}
+.mission .m1-item{
+    width: 400px;
+    height: 400px;
+    
+    margin-right: 3%;
+    border-radius: 10px;
+    padding-left: 10px;
+   
+    
+}
+
+.m1-item img{
+    width: 60%;
+}
+#m1{
+    background-image: linear-gradient(blue,cyan);
+}
+#m2{
+    background-image: linear-gradient(salmon,tomato);
+}
+#m3{
+    background-image: linear-gradient(red,orange);
+}
+.w1{
+    width: 40%;
+    padding-left: 10%;
+
+}
+.w1 img{
+    width: 80%;
+}
+.w2{
+    width: 60%;
+    padding-right: 10%;
+    padding-top: 1%;
+}
+h2{
+    font-size: 40px;
+}
+.g1{
+    width: 60%;
+    padding-left: 10%;
+}
+.g2{
+    width: 40%;
+    padding-right: 10%;
+    padding-top: 1%;
+}
+.g2 img{
+    width: 80%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+   padding: 10px;
+   text-transform: initial;
+}
